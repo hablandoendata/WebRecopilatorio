@@ -1,12 +1,8 @@
----
-layout: default
-title: Aprendizaje
-nav_order: 1
----﻿
+# 🎓 Aprendizaje
 
-# Aprendizaje
+Recursos para ampliar tus conocimientos
 
-## Libros gratuitos
+## 📚 Libros gratuitos
 
 [](https://github.com/hablandoendata/recopilacion/blob/main/README.md#libros-gratuitos)
 
@@ -80,7 +76,7 @@ nav_order: 1
 
 [Data engineering cookbok](https://github.com/andkret/Cookbook): Libro sobre lo esencial de data engineering, mapreduce, spark, Kafka,…
 
-## Cursos online
+## 📝 Cursos online
 
 [The age of I.A.](https://www.youtube.com/watch?v=UwsrzCVZAb8&feature=youtu.be): Documental de youtube sobre Inteligencia Artificial presentado por Robert Downey Jr.
 
