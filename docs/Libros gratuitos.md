@@ -1,3 +1,10 @@
+---
+excerpt: Aprendizaje
+nav_order: 1
+nav_exclude: false
+search_exclude: false
+---
+
 # 🎓 Aprendizaje
 
 Recursos para ampliar tus conocimientos
