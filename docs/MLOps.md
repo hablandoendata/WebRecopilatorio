@@ -1,3 +1,9 @@
+---
+excerpt: MlOps
+nav_order: 4
+nav_exclude: false
+search_exclude: false
+---
 
 # 🛠️ MlOps
 
