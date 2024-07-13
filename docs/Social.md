@@ -1,3 +1,9 @@
+---
+excerpt: Social
+nav_order: 3
+nav_exclude: false
+search_exclude: false
+---
 
 # 👥 Social
 
