@@ -1,3 +1,9 @@
+---
+excerpt: Otros
+nav_order: 10
+nav_exclude: false
+search_exclude: false
+---
 
 # Otras temáticas
 
