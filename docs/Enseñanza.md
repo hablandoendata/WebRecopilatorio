@@ -11,21 +11,21 @@ search_exclude: false
 
 En esta seccion iremos poniendo que herramientas o web son interesantes para que los estudiantes vayan cogiendo el gusto por los datos y la estadistica
 
+⭐ [Google trends](https://trends.google.es/trends/): Una de las herramientas de google. Puedes poner terminos de busqueda y ver como es su evolución temporal de busqueda. Muy interesante para aprender a interpretar gráficas, estacionalidades, anomalías. Un ejemplo es que los alumnos busquen por sus futbolistas favoritos, por ejemplo Messi y Ronaldo, o sus grupos de musica favoritos. Da eleccion de buscar por zonas geográficas o por diferentes horizontes de tiempo.
+
+⭐ [Wordclouds](http://www.wordclouds.com/): Una herramienta para realizar graficos donde se introduce un texto y se dibujan las palabras tan grandes como su frecuencia de aparición. Permite diferentes formas.
+
+⭐ [Teachable machine learning](https://teachablemachine.withgoogle.com/): Iniciativa de google para mostrar como puede aprender un algoritmo de imagenes. Con solo una webcam puedes ver como aprende la vision artificial a reconocer objetos
+
 [Que se de tu imagen](http://cloud.google.com/vision/): sube una foto en el apartado de «Try The API» y verás todo lo que Google puede saber de una foto
 
 [Por donde te moviste Google](http://myactivity.google.com/): Por donde te moviste segun google maps
 
 [Que sabe de ti Google](http://adssettings.google.es/): Que tiene registrado google de ti
 
-[Google trends](https://trends.google.es/trends/?geo=ES): Una de las herramientas de google. Puedes poner terminos de busqueda y ver como es su evolución temporal de busqueda. Muy interesante para aprender a interpretar gráficas, estacionalidades, anomalías. Un ejemplo es que los alumnos busquen por sus futbolistas favoritos, por ejemplo Messi y Ronaldo, o sus grupos de musica favoritos. Da eleccion de buscar por zonas geográficas o por diferentes horizontes de tiempo.
-
 [Learningml](https://learningml.org/): Si eres de los que aprendió o enseña a aprender con Scratch, échale un vistazo a esto
 
-[Wordclouds](http://www.wordclouds.com/): Una herramienta para realizar graficos donde se introduce un texto y se dibujan las palabras tan grandes como su frecuencia de aparición. Permite diferentes formas.
-
 [Pictionary automático](https://quickdraw.withgoogle.com/): Dibuja un objeto y deja que Google adivina lo que estás dibujando
-
-[Teachable machine learning](https://teachablemachine.withgoogle.com/): Iniciativa de google para mostrar como puede aprender un algoritmo de imagenes. Con solo una webcam puedes ver como aprende la vision artificial a reconocer objetos
 
 [Scroobly](https://scroobly.com/): Realiza un dibujo y animalo con tus movimientos
 
