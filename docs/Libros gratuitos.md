@@ -83,23 +83,23 @@ Recursos para ampliar tus conocimientos
 
 ## 📝 Cursos online
 
+⭐ [Curso de Deep Learning](https://analyticsindiamag.com/yann-lecuns-deep-learning-course-is-now-free-fully-online/) de Yann LeCun’s
+
+⭐ [Curso de Python para ML de Andrew NG](https://towardsdatascience.com/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f): Uno de los cursos mas famosos para aprender ML en Python gratuito
+
+⭐ [Videos de Andrew NG](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU): Videos del famoso profesor y divulgador Andrew NG. Son sus clases en standford
+
 [The age of I.A.](https://www.youtube.com/watch?v=UwsrzCVZAb8&feature=youtu.be): Documental de youtube sobre Inteligencia Artificial presentado por Robert Downey Jr.
 
 [Python y análisis de datos](https://github.com/koldLight/curso-python-analisis-datos): Curso que nos ofrece Luz Frias Díaz sobre Python y análisis de datos. Ofrece aprenderlo en 24 horas.
 
 [Curso de SQL](http://deletesql.com/): Curso gratuito para coger conceptos básicos de SQL. Online y muy sencillo de seguir
 
-⭐ [Curso de Deep Learning](https://analyticsindiamag.com/yann-lecuns-deep-learning-course-is-now-free-fully-online/) de Yann LeCun’s en ingles y aqui es español
-
 [Curso avanzado de Deep Learning y Vision artificial](https://dvl.in.tum.de/teaching/adl4cv-ss20/) y su [tutorial en youtube](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39&app=desktop)
 
 [MIT Deep Learning](http://introtodeeplearning.com/):Introducción a deep learning con vídeos y material en Python del prestigioso Instituto de Massachusetts
 
-⭐ [Curso de Python para ML de Andrew NG](https://towardsdatascience.com/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f): Uno de los cursos mas famosos para aprender ML en Python gratuito
-
 [Tutoriales Data Science gratuitos](https://data-flair.training/blogs/data-science-tutorials-home): Mas de 300 tutoriales de ML y data science gratuitos
-
-[Videos de Andrew NG](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU): Videos del famoso profesor y divulgador Andrew NG. Son sus clases en standfird
 
 [Curso de Inteligencia Artificial de Finlandia](http://elementsofai.com/): Interesante curso de Finlandia que puso a disposición de todos sus ciudadanos. Ahora gratuito para que todo el mundo sepa conceptos de Inteligencia Artificial
 
