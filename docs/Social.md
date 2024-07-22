@@ -7,7 +7,15 @@ search_exclude: false
 
 # 👥 Social
 
-## ✍️ Blogs
+## 📰 Newsletters
+
+⭐ [What's in AI](https://wiai.substack.com/): La mejor newsletter para estar al día sobre las novedades de la IA.
+
+## ✍️ Blogs o Canales de youtube
+
+⭐ [Hablando en data](https://www.youtube.com/channel/UCoDZO0dHV8WKao3zjnfNzIQ): Nuestro canal de Youtube donde iremos hablando de temas relacionados con el data science, conceptos, eventos, entrevistas,…
+
+⭐ [Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg): Canal de Youtube donde de habla de Inteligencia Artificial. Tiene videos explicativos de algoritmos y comentarios de noticias.
 
 Aqui se mostraran los enlaces a blogs, webs y canales mas interesantes sobre el data science con una pequeña descripción sobre lo que podrás encontrar en ellos
 
@@ -45,11 +53,7 @@ Aqui se mostraran los enlaces a blogs, webs y canales mas interesantes sobre el 
 
 [Podcast de analitica](https://www.ivoox.com/podcast-arte-medir_sq_f1315496_1.html): La consultora el arte de medir lleva este podcast dónde hay charlas sobre analítica. Muy centrado en analítica digital.
 
-[Hablando en data](https://www.youtube.com/channel/UCoDZO0dHV8WKao3zjnfNzIQ): Nuestro canal de Youtube donde iremos hablando de temas relacionados con el data science, conceptos, eventos, entrevistas,…
-
 [Big Data Magazine](https://bigdatamagazine.es/): Revista de actualidad sobre Big Data en español
-
-[Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg): Canal de Youtube donde de habla de Inteligencia Artificial. Tiene videos explicativos de algoritmos y comentarios de noticias.
 
 [GeeksForGeeks](https://www.youtube.com/channel/UC0RhatS1pyxInC00YKjjBqQ): Canal de Youtube con vídeos sobre machine learning, más orientado a la programación.
 
