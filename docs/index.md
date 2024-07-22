@@ -4,42 +4,17 @@ title: Index
 nav_exclude: true
 ---
 
-# Read The Docs Theme for Jekyll and GitHub Pages
+# Bienvenido a Hablando en Data
 
-This is a port of the
-[Read The Docs](https://sphinx-rtd-theme.readthedocs.io) theme to
-[Jekyll](https://jekyllrb.com/), so that it can be used with GitHub Pages.
+En esta web recopilaremos toda la información sobre Ciencia de datos que vaya cayendo en nuestras manos.
 
-You are previewing the theme right now, as you navigate
-[this documentation](https://carlosperate.github.io/jekyll-theme-rtd):
+Como los marcadores del navegador pero disponible para todos, esperamo que te sea útil 😀
 
-![screenshot](assets/img/screenshot.png)
+## ¿Qué temáticas puedes encontrar?
 
-The original [Read The Docs](https://readthedocs.org)
-[theme]((https://sphinx-rtd-theme.readthedocs.io)) was created for the
-[Sphinx](https://www.sphinx-doc.org/) documentation generator, and so it is
-designed specifically for docs.
+- Lo mas útil para el [🎓 Aprendizaje](https://hablandoendata.github.io/WebRecopilatorio/Libros%20gratuitos.html) de la Ciencia de datos, desde [📝 Cursos online](https://hablandoendata.github.io/WebRecopilatorio/Libros%20gratuitos.html#-cursos-online) a [📚 Libros gratuitos](https://hablandoendata.github.io/WebRecopilatorio/Libros%20gratuitos.html#-libros-gratuitos).
+- Si lo que quieres es compartir tus conocimientos, tenemos la parte de [👩‍🏫 Enseñanza](https://hablandoendata.github.io/WebRecopilatorio/Ense%C3%B1anza.html).
+- En cambio si lo que buscas es algo mas [👥 Social](https://hablandoendata.github.io/WebRecopilatorio/Social.html) tenemos distintos [📅 Eventos](https://hablandoendata.github.io/WebRecopilatorio/Social.html#-eventos) y [✍️ Blogs](https://hablandoendata.github.io/WebRecopilatorio/Social.html#%EF%B8%8F-blogs).
+- Para profundizar en el mundo del [🛠️ MlOps](https://hablandoendata.github.io/WebRecopilatorio/MLOps.html)
 
-Combined with [GitHub Pages](https://pages.github.com) it's a great and easy
-way to document your projects!
 
-## What Can You Find Around Here
-
-- Check out the [Quick Start Guide](https://carlosperate.github.io/jekyll-theme-rtd/quickstart.html) to get up and running.
-- If some of the terms thrown around here don't make a lot of sense, check out the [What is All This? (FAQs)](https://carlosperate.github.io/jekyll-theme-rtd/faqs.html) page.
-- To find out more about all the theme available options see the
-  [Theme Configuration](https://carlosperate.github.io/jekyll-theme-rtd/configuration/configyml.html)
-  and the [Pages Configuration](https://carlosperate.github.io/jekyll-theme-rtd/configuration/frontmatter.html)
-  pages.
-
-## 🚧 Warning!
-
-This theme is currently a **Work-In-Progress** but, while some things might be
-broken, it should be already usable.
-
-Missing features are listed in the GitHub issues with the
-[to-do label](https://github.com/carlosperate/jekyll-theme-rtd/issues?q=is%3Aissue+is%3Aopen+label%3Ato-do),
-and any known issues are listed with the
-[bug label](https://github.com/carlosperate/jekyll-theme-rtd/issues?q=is%3Aissue+is%3Aopen+label%3Abug).
-
-Contributions are very welcomed!
