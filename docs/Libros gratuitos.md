@@ -11,7 +11,9 @@ Recursos para ampliar tus conocimientos
 
 ## 📚 Libros gratuitos
 
-[](https://github.com/hablandoendata/recopilacion/blob/main/README.md#libros-gratuitos)
+⭐ [Elements of statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/): De la universidad de Stanford, libro sobre los algoritmos más clásicos de estadística.
+
+⭐ [Introduction to statistical learning](http://statlearning.com/): Los métodos estadísticos más clásicos explicados, cómo regresiones, árboles,…
 
 [Libro sobre R](https://www.datanalytics.com/libro_r/): Un libro sobre R del ex presidente de R en España, el gran Carlos Gil Bellosta
 
@@ -71,11 +73,7 @@ Recursos para ampliar tus conocimientos
 
 [Más matematicas](https://mml-book.github.io/book/mml-book.pdf): otro libro sobre las matemáticas básicas para entender el Machine Learning
 
-[Introduction to statistical learning](http://statlearning.com/): Los métodos estadísticos más clásicos explicados, cómo regresiones, árboles,…
-
 [Fundamentos de data science](http://cs.cornell.edu/jeh/book.pdf): Para los más atrevidos, las matemáticas detrás del machine learning. Es un libro con matemáticas avanzadas
-
-[Elements of statistical learning](https://web.stanford.edu/~hastie/ElemStatLearn/): De la universidad de Stanford, libro sobre los algoritmos más clásicos de estadística.
 
 [Álgebra lineal aplicada](https://web.stanford.edu/~boyd/vmls/)
 
@@ -91,13 +89,13 @@ Recursos para ampliar tus conocimientos
 
 [Curso de SQL](http://deletesql.com/): Curso gratuito para coger conceptos básicos de SQL. Online y muy sencillo de seguir
 
-[Curso de Deep Learning](https://analyticsindiamag.com/yann-lecuns-deep-learning-course-is-now-free-fully-online/) de Yann LeCun’s en ingles y aqui es español
+⭐ [Curso de Deep Learning](https://analyticsindiamag.com/yann-lecuns-deep-learning-course-is-now-free-fully-online/) de Yann LeCun’s en ingles y aqui es español
 
 [Curso avanzado de Deep Learning y Vision artificial](https://dvl.in.tum.de/teaching/adl4cv-ss20/) y su [tutorial en youtube](https://www.youtube.com/playlist?list=PLog3nOPCjKBnjhuHMIXu4ISE4Z4f2jm39&app=desktop)
 
 [MIT Deep Learning](http://introtodeeplearning.com/):Introducción a deep learning con vídeos y material en Python del prestigioso Instituto de Massachusetts
 
-[Curso de Python para ML de Andrew NG](https://towardsdatascience.com/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f): Uno de los cursos mas famosos para aprender ML en Python gratuito
+⭐ [Curso de Python para ML de Andrew NG](https://towardsdatascience.com/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f): Uno de los cursos mas famosos para aprender ML en Python gratuito
 
 [Tutoriales Data Science gratuitos](https://data-flair.training/blogs/data-science-tutorials-home): Mas de 300 tutoriales de ML y data science gratuitos
 
