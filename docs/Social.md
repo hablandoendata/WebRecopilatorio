@@ -17,8 +17,6 @@ search_exclude: false
 
 ⭐ [Dot CSV](https://www.youtube.com/channel/UCy5znSnfMsDwaLlROnZ7Qbg): Canal de Youtube donde de habla de Inteligencia Artificial. Tiene videos explicativos de algoritmos y comentarios de noticias.
 
-Aqui se mostraran los enlaces a blogs, webs y canales mas interesantes sobre el data science con una pequeña descripción sobre lo que podrás encontrar en ellos
-
 [Papers with Code](https://paperswithcode.com/sota): Artículos científicos sobre machine learning, y ejemplos de código que lo ejecutan. Una de las páginas mas interesantes para estar a la última de machine learning
 
 [ML Aplicado](https://github.com/eugeneyan/applied-ml): Interesante recopilacion de recursos sobre como productivizar distintos proyectos de machine learning
