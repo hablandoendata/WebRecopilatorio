@@ -85,9 +85,13 @@ Recursos para ampliar tus conocimientos
 
 ⭐ [Curso de Deep Learning](https://analyticsindiamag.com/yann-lecuns-deep-learning-course-is-now-free-fully-online/) de Yann LeCun’s
 
-⭐ [Curso de Python para ML de Andrew NG](https://towardsdatascience.com/a-full-length-machine-learning-course-in-python-for-free-f2732954f35f): Uno de los cursos mas famosos para aprender ML en Python gratuito
+⭐ [Coursera: Machine Learning](https://www.coursera.org/learn/machine-learning): Este curso, ofrecido por la Universidad de Stanford y presentado por Andrew Ng, proporciona una introducción amplia al aprendizaje automático, la minería de datos y el reconocimiento de patrones estadísticos.
 
-⭐ [Videos de Andrew NG](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU): Videos del famoso profesor y divulgador Andrew NG. Son sus clases en standford
+⭐ [Zero to Hero: Introduction to Neural Networks](https://karpathy.ai/zero-to-hero.html) - En este curso, Andrej Karpathy, un experto en inteligencia artificial, te lleva desde lo básico hasta temas avanzados en redes neuronales y deep learning.
+
+⭐ [Stanford CS229: Machine Learning Full Course](https://www.youtube.com/playlist?list=PLoROMvodv4rMiGQp3WXShtMGgzqpfVfbU): Videos del famoso profesor y divulgador Andrew NG. Son sus clases en Standford.
+
+⭐ [Machine Learning Engineering for Production (MLOps)](https://www.youtube.com/playlist?list=PLkDaE6sCZn6GMoA0wbpJLi3t34Gd8l0aK): De nuevo Andrew NG sobre MLops.
 
 [The age of I.A.](https://www.youtube.com/watch?v=UwsrzCVZAb8&feature=youtu.be): Documental de youtube sobre Inteligencia Artificial presentado por Robert Downey Jr.
 
@@ -140,3 +144,19 @@ Recursos para ampliar tus conocimientos
 [Edureka](https://www.edureka.co/?utm_source=google&utm_medium=cpc&utm_campaign=Brand-Search-Other-Countries&gclid=Cj0KCQiAovfvBRCRARIsADEmbRLCHvxIcqYMN6BwFR3Z4KwE4SfnAYsYXXKYZp0S-kzJnEWC7S_GZRgaAvuuEALw_wcB):Plataforma online con cursos sobre tecnologías y que te permite sacar certificados
 
 [Simplilearn](https://www.simplilearn.com/):Otra plataforma interesante para sacar certificados tecnologicos
+
+## Cheat sheets
+
+[SQL Joins Cheatsheet](https://sgfin.github.io/files/cheatsheets/SQL_joins.png) - Una guía gráfica súper útil que muestra las diferentes combinaciones de joins en SQL con ejemplos de código simples.
+
+[Python Pandas Cheatsheet](https://sgfin.github.io/files/cheatsheets/Python_cheatsheet_pandas.pdf): Una hoja de trucos para pandas.
+
+[Python NumPy Cheatsheet](https://sgfin.github.io/files/cheatsheets/Python_cheatsheet_numpy.pdf): Perfecta para cuando necesitas hacer cálculos rápidos y trabajar con matrices y arreglos en tus proyectos de ciencia de datos.
+
+[Python Keras Cheatsheet](https://sgfin.github.io/files/cheatsheets/Python_Keras_Cheat_Sheet.pdf): Ideal para quienes están trabajando en proyectos de deep learning y necesitan una referencia rápida para construir y entrenar modelos.
+
+[Python Scikit-learn Cheatsheet](https://sgfin.github.io/files/cheatsheets/Python_cheatsheet_scikit.pdf): Súper útil para tener a mano cuando necesitas implementar rápidamente modelos de aprendizaje automático en tus proyectos.
+
+[Graphic Design Cheatsheet](https://sgfin.github.io/files/cheatsheets/graphic_design.pdf): Una hoja de trucos para diseño de gráficos.
+
+[Pytorch Cheatsheet and Tutorials](https://pytorch.org/tutorials/beginner/ptcheat.html): Una hoja de trucos y tutoriales para Pytorch.
