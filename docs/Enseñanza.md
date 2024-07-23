@@ -7,7 +7,7 @@ search_exclude: false
 
 # 👩‍🏫 Enseñanza
 
-## Conceptos básicos
+## 🔤 Conceptos básicos
 
 ⭐ [Visual Introduction to Machine Learning - Part 1](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/): Un recurso interactivo que te ofrece una introducción visual al aprendizaje automático.
 
