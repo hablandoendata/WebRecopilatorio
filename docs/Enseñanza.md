@@ -9,9 +9,31 @@ search_exclude: false
 
 ## 🔤 Conceptos básicos
 
+Material de apoyo para explicar ciertos conceptos de una forma mas amena e interactiva:
+
+Por supuesto, también es útil para el aprendizaje autodidacta 😀
+
 ⭐ [Visual Introduction to Machine Learning - Part 1](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/): Un recurso interactivo que te ofrece una introducción visual al aprendizaje automático.
 
-⭐ [Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/) - La segunda parte de la introducción visual al aprendizaje automático. Continúa explorando conceptos clave con gráficos y visualizaciones interactivos.
+⭐ [Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/): La segunda parte de la introducción visual al aprendizaje automático. Continúa explorando conceptos clave con gráficos y visualizaciones interactivos.
+
+[Metodología CRISP-DM](https://www.youtube.com/watch?time_continue=3&v=F23IxZqTtKg&embeds_referring_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_referring_origin=https%3A%2F%2Fdocs.google.com&source_ve_path=MjM4NTE): Explicación en nuestro canal Hablando en Data
+
+[WOE e IV](https://www.youtube.com/watch?v=pIGZdFj_JLQ&embeds_referring_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_referring_origin=https%3A%2F%2Fdocs.google.com&source_ve_path=MjM4NTE): Explicación en nuestro canal Hablando en Data
+
+[¿Qué es es Machine Learning?](https://www.youtube.com/watch?time_continue=1&v=CSbOqickxEo&embeds_referring_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_referring_origin=https%3A%2F%2Fdocs.google.com&source_ve_path=MjM4NTE): Explicación en nuestro canal Hablando en Data
+
+[Ejemplo de Reinforcement Learning: Hide and Seek de OpenAI](https://www.youtube.com/watch?v=kopoLzvh5jY)
+
+⭐ [Visualizing K-Means Clustering](https://www.naftaliharris.com/blog/visualizing-k-means-clustering/): Este blog tiene una explicación súper clara e interactiva sobre cómo funciona el algoritmo de clustering K-Means.
+
+[Visualizing DBSCAN Clustering](https://www.naftaliharris.com/blog/visualizing-dbscan-clustering/): Explicación ahora de cómo funciona el DBSCAN.
+
+[Regresión Lineal y Mínimos Cuadrados Ordinarios](https://www.youtube.com/watch?time_continue=1&v=k964_uNn3l0&embeds_referring_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_referring_origin=https%3A%2F%2Fdocs.google.com&source_ve_path=MjM4NTE): Explicación de DotCSV
+
+⭐ [Árboles de decisión](https://www.youtube.com/watch?v=fyFIUhRUnSA): Explicación en nuestro canal Hablando en Data
+
+⭐ [Curva ROC y el AUC](https://www.youtube.com/watch?v=TmhzUdPpVPQ&embeds_referring_euri=https%3A%2F%2Fdocs.google.com%2F&embeds_referring_origin=https%3A%2F%2Fdocs.google.com&source_ve_path=MjM4NTE): Explicación en nuestro canal Hablando en Data
 
 ## 🏫 Data Science Escuela
 
