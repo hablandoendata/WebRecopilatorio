@@ -37,7 +37,7 @@ Por supuesto, también es útil para el aprendizaje autodidacta 😀
 
 ## 🏫 Data Science Escuela
 
-En esta seccion iremos poniendo que herramientas o web son interesantes para que los estudiantes vayan cogiendo el gusto por los datos y la estadistica
+Herramientas o webs interesantes para que los estudiantes mas jóvenes vayan cogiendo el gusto por los datos, la estadistica, la programación...
 
 ⭐ [Google trends](https://trends.google.es/trends/): Una de las herramientas de google. Puedes poner terminos de busqueda y ver como es su evolución temporal de busqueda. Muy interesante para aprender a interpretar gráficas, estacionalidades, anomalías. Un ejemplo es que los alumnos busquen por sus futbolistas favoritos, por ejemplo Messi y Ronaldo, o sus grupos de musica favoritos. Da eleccion de buscar por zonas geográficas o por diferentes horizontes de tiempo.
 
