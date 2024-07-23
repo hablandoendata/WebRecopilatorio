@@ -11,6 +11,10 @@ search_exclude: false
 
 ⭐ [What's in AI](https://wiai.substack.com/): La mejor newsletter para estar al día sobre las novedades de la IA.
 
+## 🗣️ Canales en Telegram
+
+[Grupo de Machine Learning - Español](https://t.me/MachineLearningESP): Únete a este grupo de Telegram para aprender y discutir sobre Machine Learning en español.
+
 ## ✍️ Blogs o Canales de youtube
 
 ⭐ [Hablando en data](https://www.youtube.com/channel/UCoDZO0dHV8WKao3zjnfNzIQ): Nuestro canal de Youtube donde iremos hablando de temas relacionados con el data science, conceptos, eventos, entrevistas,…
