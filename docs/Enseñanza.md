@@ -7,6 +7,12 @@ search_exclude: false
 
 # 👩‍🏫 Enseñanza
 
+## Conceptos básicos
+
+⭐ [Visual Introduction to Machine Learning - Part 1](http://www.r2d3.us/visual-intro-to-machine-learning-part-1/): Un recurso interactivo que te ofrece una introducción visual al aprendizaje automático.
+
+⭐ [Model Tuning and the Bias-Variance Tradeoff](http://www.r2d3.us/visual-intro-to-machine-learning-part-2/) - La segunda parte de la introducción visual al aprendizaje automático. Continúa explorando conceptos clave con gráficos y visualizaciones interactivos.
+
 ## 🏫 Data Science Escuela
 
 En esta seccion iremos poniendo que herramientas o web son interesantes para que los estudiantes vayan cogiendo el gusto por los datos y la estadistica
