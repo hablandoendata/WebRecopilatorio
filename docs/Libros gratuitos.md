@@ -145,7 +145,7 @@ Recursos para ampliar tus conocimientos
 
 [Simplilearn](https://www.simplilearn.com/):Otra plataforma interesante para sacar certificados tecnologicos
 
-## Cheat sheets
+## 🔖 Cheat sheets
 
 [SQL Joins Cheatsheet](https://sgfin.github.io/files/cheatsheets/SQL_joins.png) - Una guía gráfica súper útil que muestra las diferentes combinaciones de joins en SQL con ejemplos de código simples.
 
