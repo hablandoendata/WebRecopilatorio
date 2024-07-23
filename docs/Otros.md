@@ -38,3 +38,11 @@ search_exclude: false
 [Coronavirus: The Hammer and the Dance](https://medium.com/@tomaspueyo/coronavirus-the-hammer-and-the-dance-be9337092b56)
 
 [Herramientas gratuitas](https://docs.google.com/spreadsheets/d/1QdMr6TYlPLgc8nip165CyuDrr5WPcxnzqxJBJK_EfJ0/edit?usp=drivesdk) para estudio o durante el periodo del covid
+
+## Otros recopilatorios
+
+[Learning Resources](https://sgfin.github.io/learning-resources/): Un recurso fantástico lleno de enlaces y materiales para aprender sobre programación, data science, machine learning y mucho más.
+
+[AI and ML Resources](https://github.com/vlameiras/ai-ml-resources): Un repositorio de GitHub repleto de recursos sobre inteligencia artificial y machine learning.
+
+[Free ML Resources](https://github.com/BINPIPE/Free-ML-Resources): Un repositorio de GitHub que ofrece una colección de recursos gratuitos sobre machine learning.
