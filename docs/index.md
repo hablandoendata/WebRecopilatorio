@@ -4,7 +4,7 @@ title: Index
 nav_exclude: true
 ---
 
-# Bienvenido a Hablando en Data
+# Bienvenid@ a Hablando en Data
 
 En esta web recopilaremos toda la información sobre Ciencia de datos que vaya cayendo en nuestras manos.
 
