@@ -145,6 +145,48 @@ Recursos para ampliar tus conocimientos
 
 [Simplilearn](https://www.simplilearn.com/):Otra plataforma interesante para sacar certificados tecnologicos
 
+## 📄 Papers
+
+⭐ [Papers with code](https://paperswithcode.com/): Genial web con gran variedad de papers y el código original del proyecto.
+
+⭐ [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg): Gran canal de youtube con entretenidos resumenes de muchos papers.
+
+⭐ [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754.pdf)
+
+⭐ [Random Forest](https://link.springer.com/article/10.1023/A:1010933404324)
+
+[Bagging predictors](https://link.springer.com/article/10.1007/BF00058655)
+
+[LightGBM: A Highly Efficient Gradient BoostingDecision Tree](https://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)
+
+[AdaBoost and the Super Bowl of Classifiers - A Tutorial Introduction to Adaptive Boosting](http://www.inf.fu-berlin.de/inst/ag-ki/adaboost4.pdf)
+
+[Greedy Function Approximation: A Gradient Boosting Machine](https://projecteuclid.org/download/pdf_1/euclid.aos/1013203451)
+
+[Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning - by Sebastian Raschka](https://arxiv.org/pdf/1811.12808.pdf)
+
+[A Brief Introduction into Machine Learning - by Gunnar Ratsch](https://events.ccc.de/congress/2004/fahrplan/files/105-machine-learning-paper.pdf)
+
+[On Model Stability as a Function of Random Seed](https://arxiv.org/pdf/1909.10447)
+
+⭐ [Deep learning -Yann LeCun, Yoshua Bengio & Geoffrey Hinton](https://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)
+
+⭐ [ImageNet Classification with Deep Convolutional Neural Networks](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)
+
+[Generalization in Deep Learning](https://arxiv.org/pdf/1710.05468.pdf)
+
+[Topology of Learning in Artificial Neural Networks](https://arxiv.org/pdf/1902.08160v1.pdf)
+
+[Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~hinton/absps/JMLRdropout.pdf)
+
+[Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)
+
+⭐ [YOLO-You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640)
+
+⭐ [Attention Is All You Need](https://arxiv.org/pdf/1706.03762)
+
+⭐ [BERT: Pre-training of Deep Bidirectional Transformers forLanguage Understanding](https://arxiv.org/pdf/1810.04805)
+
 ## 🔖 Cheat sheets
 
 [SQL Joins Cheatsheet](https://sgfin.github.io/files/cheatsheets/SQL_joins.png) - Una guía gráfica súper útil que muestra las diferentes combinaciones de joins en SQL con ejemplos de código simples.
