@@ -6,9 +6,9 @@ nav_exclude: true
 
 # Bienvenid@ a Hablando en Data
 
-En esta web recopilaremos toda la información sobre Ciencia de datos que vaya cayendo en nuestras manos.
+En esta web recopilaremos toda la información sobre Ciencia de datos que vaya cayendo en nuestras manos. Como los marcadores del navegador pero disponible para todos, esperamos que te sea útil 😀
 
-Como los marcadores del navegador pero disponible para todos, esperamos que te sea útil 😀
+ (Por ahora van mas de 200 recursos, en su mayoría gratuitos... 🤯)
 
 ## ¿Qué temáticas puedes encontrar?
 
