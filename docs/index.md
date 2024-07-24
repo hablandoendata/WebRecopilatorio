@@ -16,6 +16,7 @@ Aqui podrás encontrar:
 - Lo mas útil para el [🎓 Aprendizaje](https://hablandoendata.github.io/WebRecopilatorio/Libros%20gratuitos.html) de la Ciencia de datos:
   - [📝 Cursos online](https://hablandoendata.github.io/WebRecopilatorio/Libros%20gratuitos.html#-cursos-online)
   - [📚 Libros gratuitos](https://hablandoendata.github.io/WebRecopilatorio/Libros%20gratuitos.html#-libros-gratuitos)
+  - [📄 Papers](https://hablandoendata.github.io/WebRecopilatorio/Libros%20gratuitos.html#-papers)
   - [🔖 Cheat sheets](https://hablandoendata.github.io/WebRecopilatorio/Libros%20gratuitos.html#-cheat-sheets)
 - Si lo que quieres es compartir tus conocimientos, tenemos la parte de [👩‍🏫 Enseñanza](https://hablandoendata.github.io/WebRecopilatorio/Ense%C3%B1anza.html):
   - [🔤 Conceptos básicos](https://hablandoendata.github.io/WebRecopilatorio/Ense%C3%B1anza.html#-conceptos-b%C3%A1sicos)
